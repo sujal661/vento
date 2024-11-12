@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(82, 167, 167);
+   
+
+    
+
+    
+}
+
+.dev{
+    background-color: aquamarine;
+    display: flex;
+   justify-content: center;
+    height: 50vh;
+  align-items: end;
+
+  
+}
+
+.bot{
+
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+
+}
+
+
+
+.sujal{
+
+  height: 200px;
+  width: 200px;
+    
+}
+
+#btn{
+    height: 40px;
+    border-radius:10px;
+    width: 80px;
+    color: aliceblue;
+    margin-top: 20px;
+    font-size: 15px;
+    background-color: #0f0f0f;
+}
+
+.divi{
+
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.txt{
+
+    margin-top: 30px;
+
+    width: 100;
+    display: flex;
+    justify-content: center;
+   font-size: medium;
+   font-size: 60px;
+   
+
+}
